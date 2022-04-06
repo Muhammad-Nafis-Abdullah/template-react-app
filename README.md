@@ -1,4 +1,4 @@
-# **Templete Create React App**
+# **Template Create React App**
 
 ## **Included Packages**
 * ### ***Tailwind CSS***
