@@ -24,6 +24,9 @@
   p{
     @apply text-lg
   }
+  button{
+    @apply border-2 border-black font-medium px-3 py-1 rounded-sm my-10
+  }
 }
 
 @layer utilities{
