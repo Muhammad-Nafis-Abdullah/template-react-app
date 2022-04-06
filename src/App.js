@@ -1,4 +1,9 @@
 import { Route, Routes } from "react-router-dom";
+import app from "./firebase.init";
+import { getAuth } from 'firebase/auth'
+
+
+export const auth = getAuth(app);
 
 
 
