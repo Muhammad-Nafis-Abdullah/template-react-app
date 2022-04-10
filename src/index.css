@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
+
+@layer utilities{
   h1{
     @apply text-8xl
   }
@@ -27,9 +28,6 @@
   button{
     @apply border-2 border-black font-medium px-3 py-1 rounded-sm
   }
-}
-
-@layer utilities{
   .container{
     @apply mx-auto p-3;
   }
