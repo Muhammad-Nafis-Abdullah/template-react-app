@@ -2,6 +2,7 @@
 
 ## **# Included Packages**
 * ### ***[Tailwind CSS](https://tailwindcss.com/docs/installation)***
+* ### ***[Material UI](https://mui.com/material-ui/getting-started/installation/)***
 * ### ***[React Router](https://reactrouter.com/docs/en/v6/getting-started/tutorial)***
 * ### ***[Hero Icons](https://heroicons.com/)***
 * ### ***[Firebase](https://console.firebase.google.com/)***
