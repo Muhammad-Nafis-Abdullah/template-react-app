@@ -1,5 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import NotFound from "./components/NotFound";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
