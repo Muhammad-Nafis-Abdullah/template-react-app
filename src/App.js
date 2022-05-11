@@ -1,6 +1,5 @@
 import { Route, Routes, useLocation } from "react-router-dom";
 import NotFound from "./components/NotFound";
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { useEffect } from "react";
 
 
